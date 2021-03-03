@@ -1,0 +1,8 @@
+INSERT INTO tasks(title,priority) VALUES("Learn MySQL INSERT Statement",1);
+select from table;
+select yukti,a from c_table;
+select   a  from tab where a>=10 group by a,b,c order by a;
+update x set a=10,b=20,a="yukti villa" where x between 5 and 10 ;
+delete from tab_name where a between 10 and 20 order by a,b asc,c desc limit 954465;
+DROP TABLE table_name, yukti;
+insert into table_name(x,y,t) values(v1,v2);

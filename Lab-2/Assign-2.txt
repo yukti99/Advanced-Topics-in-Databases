@@ -1,0 +1,6 @@
+Advanced Topics in Databases LAB
+MNIT, Jaiput
+
+Problem Statement:
+
+Extend Assignment-1 and generate equivalent expression in Relational Algebra for select statement only 

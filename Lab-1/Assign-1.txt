@@ -1,0 +1,12 @@
+Advanced Topics in Databases LAB
+MNIT, Jaiput
+
+Problem Statement:
+
+Design and Implement a parser for SQL statements:
+1. Create Table
+2. Drop Table
+3. Select 
+4. Insert 
+5. Update 
+6. Delete
