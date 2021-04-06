@@ -1,0 +1,3 @@
+Problem Statement-
+Write a program which shall read a file containing concurrent schedule involving n transaction and find whether it is conflict serializable or not.
+In case of conflict serializable, also give the order of serializability. Otherwise give the list of transactions involved in the conflict/conflicts.
