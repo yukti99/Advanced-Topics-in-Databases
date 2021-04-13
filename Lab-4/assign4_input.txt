@@ -1,0 +1,8 @@
+4,3,W3(a) R1(a) R2(a) R1(a) W2(a) W3(a) W1(a) W2(b) R3(a) R4(b) W4(c)
+3,2,W3(a) R1(a) R2(a) R1(b) W2(a) W3(b) W1(a) W2(b) R3(a)
+3,4,R1(a) W2(d) W3(a) W2(a) R2(a) R3(b) W1(c)
+3,3,R1(a) W1(a) R2(b) W2(b) R2(a) R3(c) W3(c) R1(c) W1(c) W2(a) R3(a) W3(a)
+2,2,R1(X) R1(Y) R2(X) R2(Y) W2(Y) W1(X)
+3,1,R1(Q) W2(Q) R3(Q) W1(Q)
+2,1,R1(A) W1(A) R2(A) W2(A) R1(B) W1(B) R2(B) W2(B)
+4,2,W1(P) R2(P) R2(Q) W3(Q) R4(Q) W2(Q)
